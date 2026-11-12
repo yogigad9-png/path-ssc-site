@@ -1,8 +1,8 @@
-# PATH SSC — Official Website
+# PathExam — Official Website
 
 Live at: **https://<your-username>.github.io/path-ssc-site/**
 
-Static, mobile-responsive website for the PATH SSC app. Hosted on GitHub Pages.
+Static, mobile-responsive website for the PathExam app. Hosted on GitHub Pages.
 
 ## Pages
 - `index.html` — home / overview

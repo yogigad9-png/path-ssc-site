@@ -1,4 +1,4 @@
-// PATH SSC site — mobile nav + footer year
+// PathExam site — mobile nav + footer year
 (function () {
   var toggle = document.getElementById('navToggle');
   var nav = document.getElementById('nav');
